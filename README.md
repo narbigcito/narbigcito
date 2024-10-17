@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring the frontiers of knowledge through models, logic, and language.<br>Currently diving deep into epistemology of LLMs and machine learning. Studying first-order logic, linguistics, metalogic, and formal system logic. Passionate about epistemology of systems and computational epistemology.<br><br>Looking to collaborate on projects that push the boundaries of how we understand knowledge and systems. Eager to learn more and connect with others in logic and computational linguistics.<br><br>I question, I deconstruct, I rebuild. Let’s create something thought-provoking.
+Exploring the frontiers of knowledge through models, logic, and language.<br>Currently diving deep into epistemology of LLMs and machine learning. Studying first-order logic, linguistics, metalogic, and formal system logic.<br><br>Looking to collaborate on projects that push the boundaries of how we understand knowledge and systems. Eager to learn more and connect with others in logic and computational linguistics.<br><br>I question, I deconstruct, I rebuild. Let’s create something thought-provoking.
 
 
 ## 🌐 Socials:
